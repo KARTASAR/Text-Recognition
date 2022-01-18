@@ -16,7 +16,7 @@ It is based on the:
 ![image](https://user-images.githubusercontent.com/72649244/149961073-de3040ee-6650-46e0-9911-d0f8881ca442.png)
 
 
-## Pretrained Model
+## Score
 
 | Accuracy     | Loss           | CER |
 | :---         |     :---:      |          ---: |
