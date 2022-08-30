@@ -1,4 +1,4 @@
-# Text recognition with PyTorch
+# Optical Character Recognition + Instance Segmentation for russian and english languages
 
 ## Environment
  [![Python](https://img.shields.io/badge/Python-3.7%2B-9cf?style=flat-square)](https://www.python.org/downloads/)
