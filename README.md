@@ -8,6 +8,9 @@
  ![matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1%2B-blue?style=flat-square)
  ![openCv](https://img.shields.io/badge/openCv-4.5.3%2B-red?style=flat-square)
 
+![image](https://user-images.githubusercontent.com/91266802/215262699-8eb196a2-4425-450d-b876-e0146a5a7128.png)
+
+
 ## Implementetion
 PyTorch implementation of a Deep Neural Network for text recognition.\
 It is based on the:
